@@ -4,7 +4,7 @@
 
 # 👋 Olá! Eu sou o Rubens Gabriel
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (Penúltimo semestre)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (último semestre)  
 💻 Desenvolvedor em formação | Focado em automações, dados e soluções web  
 📍 PR 🔁 MA - Brasil
 
