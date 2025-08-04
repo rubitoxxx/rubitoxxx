@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia, lógica e desenvolvimento de soluções que realmente façam a diferença. Atualmente estou no penúltimo semestre de Análise e Desenvolvimento de Sistemas e venho me aprofundando no desenvolvimento de sistemas web, automações com Python e organização de dados com Power BI e bancos relacionais.
+Sou apaixonado por tecnologia, lógica e desenvolvimento de soluções que realmente façam a diferença. Atualmente estou no último semestre de Análise e Desenvolvimento de Sistemas e venho me aprofundando no desenvolvimento de sistemas web, automações com Python e organização de dados com Power BI e bancos relacionais.
 
 Acredito que a educação, aliada à persistência, é uma das ferramentas mais poderosas para transformar realidades. Gosto de explorar ferramentas práticas, criar soluções úteis e aprender continuamente com cada projeto.
 
