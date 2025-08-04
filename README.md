@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blog.estacio.br/wp-content/uploads/2024/12/estacio_sociedadedeensinosupoeriorestaciodesaltda_image_194.webp" width="600"/>
+  <img src="rubito.png" width="600"/>
 </p>
 
 # 👋 Olá! Eu sou o Rubens Gabriel
