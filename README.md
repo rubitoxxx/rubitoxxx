@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rubitoxxx/rubitoxxx/blob/main/rubito.png" width="600"/>
+  <img src="./rubito.png" width="600"/>
 </p>
 
 # 👋 Olá! Eu sou o Rubens Gabriel
