@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="0d39c6368f120ca9385de4260fc6989d5e3ba4fa" width="600"/>
+  <img src="./92B84E48-500F-4C15-8E2C-49BFB86ADBDF.png" width="600"/>
 </p>
 
 # 👋 Olá! Eu sou o Rubens Gabriel
