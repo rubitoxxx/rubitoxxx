@@ -6,6 +6,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (último semestre)  
 💻 Desenvolvedor em formação | Focado em automações, dados e soluções web  
+🖥️ Atualmente trabalhando como **Service Desk T.I**  
 📍 PR 🔁 MA - Brasil
 
 ---
@@ -13,6 +14,8 @@
 ## 🚀 Sobre mim
 
 Sou apaixonado por tecnologia, lógica e desenvolvimento de soluções que realmente façam a diferença. Atualmente estou no último semestre de Análise e Desenvolvimento de Sistemas e venho me aprofundando no desenvolvimento de sistemas web, automações com Python e organização de dados com Power BI e bancos relacionais.
+
+Atualmente atuo como **Service Desk T.I**, onde aplico conhecimentos técnicos para suporte, atendimento e resolução de problemas, sempre buscando entregar eficiência e qualidade.
 
 Acredito que a educação, aliada à persistência, é uma das ferramentas mais poderosas para transformar realidades. Gosto de explorar ferramentas práticas, criar soluções úteis e aprender continuamente com cada projeto.
 
@@ -63,8 +66,9 @@ Você pode acompanhar meus projetos aqui no GitHub e em breve no meu portfólio 
 
 ---
 
-> ✨ O pensamento é o ensaio da ação."Sigmund Freud”  
-> 👨‍💻Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão. "Rafael Lain"
+> ✨ O pensamento é o ensaio da ação. "Sigmund Freud”  
+> 👨‍💻 Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão. "Rafael Lain"
+
 ## 📊 GitHub Stats
 
 <p align="center">
